@@ -1,5 +1,14 @@
 # Tarea_colaborativa_Cortes_Aguilera_Javier-F.
 
+
+
+
+
+
+
+
+
+
 //Calcula el promerdio de una Lista de N datos
 
 Algoritmo Promedio
